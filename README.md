@@ -1,4 +1,4 @@
-#📊 Superstore-Data-Analysis
+📊 Superstore-Data-Analysis
 
 End-to-End Data Cleaning, Exploratory Data Analysis & Business Insights Using Python & Power BI
 
@@ -26,6 +26,8 @@ GitHub for Version Control
 
 1. Data Cleaning Steps
 
+
+
 Performed using Python (Pandas):
 
 🔹Removed null values and unnecessary columns
@@ -42,6 +44,8 @@ Performed using Python (Pandas):
 
 
 2. Exploratory Data Analysis (EDA) in Python
+
+
 
 
 ✔ Sales & Profit Breakdown
@@ -76,6 +80,8 @@ The visuals highlight which areas contribute most to revenue and which require a
 3. Business Questions Answered
    
 
+
+
 The project answers 14 important business questions using Python:
 
 🔹Which Category contributes most to Sales?
@@ -107,6 +113,8 @@ The project answers 14 important business questions using Python:
 🔹Seasonal trends for Categories or Segments
 
 Each question is answered with grouping, aggregation, and visualizations.
+
+
 
 
 📈 4. Power BI Dashboard
