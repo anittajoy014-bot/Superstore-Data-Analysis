@@ -28,7 +28,7 @@ GitHub for Version Control
 
 
 
-Performed using Python (Pandas):
+ Performed using Python (Pandas):
 
 🔹Removed null values and unnecessary columns
 
@@ -74,7 +74,7 @@ Performed using Python (Pandas):
 
 🔹Seasonal patterns using line charts
 
-The visuals highlight which areas contribute most to revenue and which require attention.
+ The visuals highlight which areas contribute most to revenue and which require attention.
 
 
 3. Business Questions Answered
@@ -82,7 +82,7 @@ The visuals highlight which areas contribute most to revenue and which require a
 
 
 
-The project answers 14 important business questions using Python:
+ The project answers 14 important business questions using Python:
 
 🔹Which Category contributes most to Sales?
 
@@ -112,14 +112,14 @@ The project answers 14 important business questions using Python:
 
 🔹Seasonal trends for Categories or Segments
 
-Each question is answered with grouping, aggregation, and visualizations.
+ Each question is answered with grouping, aggregation, and visualizations.
 
 
 
 
 📈 4. Power BI Dashboard
 
-An interactive Power BI dashboard was created to present:
+ An interactive Power BI dashboard was created to present:
 
 🔹KPIs: Total Sales, Total Profit, Average Discount
 
@@ -150,7 +150,7 @@ An interactive Power BI dashboard was created to present:
 
 🔹 November and December show peak seasonal activity
 
-These insights can be used for strategic decisions like discount optimization, product focus, and regional expansion.
+ These insights can be used for strategic decisions like discount optimization, product focus, and regional expansion.
 
 💡 Conclusion
 
