@@ -28,46 +28,47 @@ GitHub for Version Control
 
 Performed using Python (Pandas):
 
-Removed null values and unnecessary columns
+🔹Removed null values and unnecessary columns
 
-Converted Order_Date into proper datetime format
+🔹Converted Order_Date into proper datetime format
 
-Extracted Month, Month_Number for trend analysis
+🔹Extracted Month, Month_Number for trend analysis
 
-Standardized categorical values
+🔹Standardized categorical values
 
-Verified data structure with .info(), .describe(), .value_counts()
+🔹Verified data structure with .info(), .describe(), .value_counts()
 
-Added metrics such as total sales, total profit, average discount
+🔹Added metrics such as total sales, total profit, average discount
+
 
 2. Exploratory Data Analysis (EDA) in Python
 
 
 ✔ Sales & Profit Breakdown
 
-By Category
+🔹By Category
 
-By Region
+🔹By Region
 
-By Segment
+🔹By Segment
 
-By Sub-Category
+🔹By Sub-Category
 
 ✔ Visualizations Created
 
-Sales by Category (bar chart)
+🔹Sales by Category (bar chart)
 
-Profit by Category
+🔹Profit by Category
 
-Sales & Profit by Segment
+🔹Sales & Profit by Segment
 
-Sales & Profit by Region
+🔹Sales & Profit by Region
 
-Sub-Category profitability ranking
+🔹Sub-Category profitability ranking
 
-Monthly Sales & Profit Trends
+🔹Monthly Sales & Profit Trends
 
-Seasonal patterns using line charts
+🔹Seasonal patterns using line charts
 
 The visuals highlight which areas contribute most to revenue and which require attention.
 
@@ -77,33 +78,33 @@ The visuals highlight which areas contribute most to revenue and which require a
 
 The project answers 14 important business questions using Python:
 
-Which Category contributes most to Sales?
+🔹Which Category contributes most to Sales?
 
-Which Category is most profitable?
+🔹Which Category is most profitable?
 
-Which Sub-Category generates highest profit?
+🔹Which Sub-Category generates highest profit?
 
-Identifying loss-making Sub-Categories
+🔹Identifying loss-making Sub-Categories
 
-Region with highest sales
+🔹Region with highest sales
 
-Region with highest profit
+🔹Region with highest profit
 
-Segment with highest sales
+🔹Segment with highest sales
 
-Most profitable Segment
+🔹Most profitable Segment
 
-Which Segment needs attention (low profit / high discount)?
+🔹Which Segment needs attention (low profit / high discount)?
 
-What is the relationship between Discount and Profit?
+🔹What is the relationship between Discount and Profit?
 
-Are high discounts causing losses in any Sub-Category?
+🔹Are high discounts causing losses in any Sub-Category?
 
-Which Month has highest sales?
+🔹Which Month has highest sales?
 
-Which Month has highest profit?
+🔹Which Month has highest profit?
 
-Seasonal trends for Categories or Segments
+🔹Seasonal trends for Categories or Segments
 
 Each question is answered with grouping, aggregation, and visualizations.
 
@@ -112,22 +113,22 @@ Each question is answered with grouping, aggregation, and visualizations.
 
 An interactive Power BI dashboard was created to present:
 
-KPIs: Total Sales, Total Profit, Average Discount
+🔹KPIs: Total Sales, Total Profit, Average Discount
 
-Category & Sub-Category performance
+🔹Category & Sub-Category performance
 
-Segment insights
+🔹Segment insights
 
-Region-wise revenue distribution
+🔹Region-wise revenue distribution
 
-Top & bottom performers
+🔹Top & bottom performers
 
-Monthly sales & profit trends
+🔹Monthly sales & profit trends
 
-Dynamic filters for deep analysis
+🔹Dynamic filters for deep analysis
 
 
-🚀 Key Insights
+🚀 Key Insights  
 
 🔹 Technology category generates strong profit
 
